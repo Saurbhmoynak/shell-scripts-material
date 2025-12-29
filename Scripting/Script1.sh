@@ -1,0 +1,7 @@
+echo "We are trying this practical from linux EC2"
+echo "I am from Bangalore"
+echo "We are from batch-26 and learning DevOps"
+echo "Hello, Good morning!"
+echo "Adding new value 2"
+echo "New 2"
+echo "Adding new line 1"
